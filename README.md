@@ -1,3 +1,5 @@
+![logo](https://github.com/anshikagupta170903/anshikagupta170903/blob/main/logo_banner_github.jpg)
+
 <h1 align="center">Hi 👋, I'm Anshika Gupta &hearts;</h1>
 <h3 align="center">A passionate Developer!</h3>
  
